@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\bin\Debug\CountCharacters.exe.config
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\bin\Debug\CountCharacters.exe
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\bin\Debug\CountCharacters.pdb
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\obj\Debug\CountCharacters.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\obj\Debug\CountCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\obj\Debug\CountCharacters.exe
+C:\Users\Nimap\source\repos\CountCharacters\CountCharacters\obj\Debug\CountCharacters.pdb
