@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\StringRev\bin\Debug\StringRev.exe.config
+C:\Users\Nimap\source\repos\Practice\StringRev\bin\Debug\StringRev.exe
+C:\Users\Nimap\source\repos\Practice\StringRev\bin\Debug\StringRev.pdb
+C:\Users\Nimap\source\repos\Practice\StringRev\obj\Debug\StringRev.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\StringRev\obj\Debug\StringRev.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\StringRev\obj\Debug\StringRev.exe
+C:\Users\Nimap\source\repos\Practice\StringRev\obj\Debug\StringRev.pdb

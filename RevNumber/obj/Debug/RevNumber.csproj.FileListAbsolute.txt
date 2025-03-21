@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\RevNumber\bin\Debug\RevNumber.exe.config
+C:\Users\Nimap\source\repos\Practice\RevNumber\bin\Debug\RevNumber.exe
+C:\Users\Nimap\source\repos\Practice\RevNumber\bin\Debug\RevNumber.pdb
+C:\Users\Nimap\source\repos\Practice\RevNumber\obj\Debug\RevNumber.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\RevNumber\obj\Debug\RevNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\RevNumber\obj\Debug\RevNumber.exe
+C:\Users\Nimap\source\repos\Practice\RevNumber\obj\Debug\RevNumber.pdb
