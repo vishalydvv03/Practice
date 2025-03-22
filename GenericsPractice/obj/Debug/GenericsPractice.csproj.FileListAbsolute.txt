@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\bin\Debug\GenericsPractice.exe.config
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\bin\Debug\GenericsPractice.exe
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\bin\Debug\GenericsPractice.pdb
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\obj\Debug\GenericsPractice.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\obj\Debug\GenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\obj\Debug\GenericsPractice.exe
+C:\Users\Nimap\source\repos\Practice\GenericsPractice\obj\Debug\GenericsPractice.pdb

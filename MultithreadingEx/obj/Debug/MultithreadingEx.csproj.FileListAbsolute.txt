@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\bin\Debug\MultithreadingEx.exe.config
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\bin\Debug\MultithreadingEx.exe
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\bin\Debug\MultithreadingEx.pdb
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\obj\Debug\MultithreadingEx.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\obj\Debug\MultithreadingEx.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\obj\Debug\MultithreadingEx.exe
+C:\Users\Nimap\source\repos\Practice\MultithreadingEx\obj\Debug\MultithreadingEx.pdb
