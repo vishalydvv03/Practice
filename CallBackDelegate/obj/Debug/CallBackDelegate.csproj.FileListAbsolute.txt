@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\bin\Debug\Arrays.exe.config
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\bin\Debug\Arrays.exe
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\bin\Debug\Arrays.pdb
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\obj\Debug\CallBackDelegate.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\obj\Debug\CallBackDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\obj\Debug\Arrays.exe
+C:\Users\Nimap\source\repos\Practice\CallBackDelegate\obj\Debug\Arrays.pdb

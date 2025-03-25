@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\bin\Debug\GenericDelegates.exe
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\bin\Debug\GenericDelegates.pdb
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\obj\Debug\GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\obj\Debug\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\obj\Debug\GenericDelegates.exe
+C:\Users\Nimap\source\repos\Practice\GenericDelegates\obj\Debug\GenericDelegates.pdb
