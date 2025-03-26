@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\bin\Debug\MaxNumberDelegate.exe.config
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\bin\Debug\MaxNumberDelegate.exe
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\bin\Debug\MaxNumberDelegate.pdb
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\obj\Debug\MaxNumberDelegate.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\obj\Debug\MaxNumberDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\obj\Debug\MaxNumberDelegate.exe
+C:\Users\Nimap\source\repos\Practice\MaxNumberDelegate\obj\Debug\MaxNumberDelegate.pdb

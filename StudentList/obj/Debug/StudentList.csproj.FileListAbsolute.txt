@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\Nimap\source\repos\Practice\StudentList\bin\Debug\StudentList.exe
+C:\Users\Nimap\source\repos\Practice\StudentList\bin\Debug\StudentList.pdb
+C:\Users\Nimap\source\repos\Practice\StudentList\obj\Debug\StudentList.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\StudentList\obj\Debug\StudentList.exe
+C:\Users\Nimap\source\repos\Practice\StudentList\obj\Debug\StudentList.pdb

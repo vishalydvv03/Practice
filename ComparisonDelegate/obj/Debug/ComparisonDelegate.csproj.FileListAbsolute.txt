@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\bin\Debug\ComparisonDelegate.exe.config
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\bin\Debug\ComparisonDelegate.exe
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\bin\Debug\ComparisonDelegate.pdb
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\obj\Debug\ComparisonDelegate.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\obj\Debug\ComparisonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\obj\Debug\ComparisonDelegate.exe
+C:\Users\Nimap\source\repos\Practice\ComparisonDelegate\obj\Debug\ComparisonDelegate.pdb

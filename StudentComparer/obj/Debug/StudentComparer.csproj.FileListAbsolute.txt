@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Practice\StudentComparer\bin\Debug\StudentComparer.exe.config
+C:\Users\Nimap\source\repos\Practice\StudentComparer\bin\Debug\StudentComparer.exe
+C:\Users\Nimap\source\repos\Practice\StudentComparer\bin\Debug\StudentComparer.pdb
+C:\Users\Nimap\source\repos\Practice\StudentComparer\obj\Debug\StudentComparer.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Practice\StudentComparer\obj\Debug\StudentComparer.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Practice\StudentComparer\obj\Debug\StudentComparer.exe
+C:\Users\Nimap\source\repos\Practice\StudentComparer\obj\Debug\StudentComparer.pdb
